@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_sign_up_activity"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/btn_sign_up_phone_verify_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/toolbar_btn_Margin_StartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+
+            android:src="@drawable/ic_baseline_clear_24">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/sign_up_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/toolbar_title_marginStartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+            android:layout_marginEnd="@dimen/toolbar_title_marginStartEnd"
+            android:gravity="center_horizontal"
+            android:text="@string/sign_up"
+            android:textColor="@color/primary_text_color"
+            android:textSize="@dimen/toolbar_title_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btn_sign_up_phone_verify_next"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/toolbar_btn_Margin_StartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+            android:gravity="center"
+            android:text="@string/sign_up_next"
+            android:textColor="@color/primary_text_color"
+            android:textSize="@dimen/toolbar_title_text_size"
+            android:textStyle="bold" />
+
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:padding="@dimen/card_view_layout_content_padding"
+        >
+
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/toolbar_sign_in_activity"
+            android:layout_width="match_parent"
+            android:layout_height="177dp"
+            android:layout_marginTop="100dp"
+            android:paddingLeft="16dp"
+            android:paddingRight="16dp"
+            android:orientation="vertical"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent">
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et__phone_number_input_text"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:inputType="phone"
+                android:textSize="@dimen/et_text_size"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="1.0"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/phone"
+                tools:ignore="MissingConstraints" />
+
+            <TextView
+                android:id="@+id/phone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="10dp"
+                android:text="@string/phone"
+                tools:ignore="MissingConstraints">
+            </TextView>
+
+            <TextView
+                android:id="@+id/sign_ok"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="24dp"
+                android:text="@string/sign_ok"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toTopOf="@id/et__phone_number_input_text"
+                app:layout_constraintEnd_toEndOf="parent"
+
+                app:layout_constraintHorizontal_bias="0.947"
+                app:layout_constraintStart_toStartOf="@+id/et__phone_number_input_text"
+                app:layout_constraintTop_toBottomOf="@id/phone"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.195"
+                tools:ignore="MissingConstraints">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/phone_verify_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/auth_number"
+                android:layout_marginBottom="10dp"
+                android:layout_marginTop="10dp"
+                app:layout_constraintTop_toBottomOf="@id/et__phone_number_input_text"
+                tools:ignore="MissingConstraints"
+                app:layout_constraintBottom_toTopOf="@id/et_phone_verify_number"
+                tools:layout_editor_absoluteX="1dp"
+                tools:layout_editor_absoluteY="75dp">
+
+            </TextView>
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_phone_verify_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="number"
+                android:textSize="@dimen/et_text_size"
+                app:layout_constraintBottom_toTopOf="@id/et_phone_verify_number"
+                app:layout_constraintTop_toBottomOf="@id/phone_verify_number"
+                tools:ignore="MissingConstraints"
+                tools:layout_editor_absoluteX="-11dp" />
+
+            <TextView
+                android:id="@+id/sign_ok2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sign_ok"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.955"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/phone_verify_number"
+                app:layout_constraintVertical_bias="0.177"
+                tools:ignore="MissingConstraints">
+
+            </TextView>
+
+            <TextView
+                android:id="@+id/phone_reverify_number"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="4dp"
+                android:layout_marginTop="10dp"
+                android:layout_marginBottom="15dp"
+                android:text="@string/auth_number_resend"
+                android:textSize="18sp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@id/et_phone_verify_number"
+                app:layout_constraintVertical_bias="0.0"
+                tools:ignore="MissingConstraints">
+
+            </TextView>
+        </androidx.constraintlayout.widget.ConstraintLayout>
+    </LinearLayout>
+</LinearLayout>

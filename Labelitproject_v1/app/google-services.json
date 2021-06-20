@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "993042917046",
+    "project_id": "labelitrealproje",
+    "storage_bucket": "labelitrealproje.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:993042917046:android:bbe999a172f67937bee817",
+        "android_client_info": {
+          "package_name": "com.example.labelitrealproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "993042917046-g5pda4mreq8btghps7rhdlit4puvdbep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAj9UkR0t4jqBuHfrf5SDt37ZK9rXT_Slw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "993042917046-g5pda4mreq8btghps7rhdlit4puvdbep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

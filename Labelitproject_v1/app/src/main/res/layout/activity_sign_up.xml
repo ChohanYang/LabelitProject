@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar_sign_up_activity"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent">
+
+        <ImageView
+            android:id="@+id/btn_sign_up_back"
+            android:layout_width="40dp"
+            android:layout_height="40dp"
+            android:layout_marginStart="@dimen/toolbar_btn_Margin_StartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+
+            android:src="@drawable/ic_baseline_keyboard_arrow_left_24">
+
+        </ImageView>
+
+        <TextView
+            android:id="@+id/sign_up_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/toolbar_title_marginStartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+            android:layout_marginEnd="@dimen/toolbar_title_marginStartEnd"
+            android:gravity="center"
+            android:text="@string/sign_up"
+            android:textColor="@color/primary_text_color"
+            android:textSize="@dimen/toolbar_title_text_size"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/btn_sign_up_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/toolbar_btn_Margin_StartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+            android:enabled="false"
+            android:gravity="center"
+            android:text="@string/sign_up_done"
+            android:textColor="@color/primary_text_color"
+            android:textSize="@dimen/toolbar_title_text_size"
+            android:textStyle="bold" />
+    </androidx.appcompat.widget.Toolbar>
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="@dimen/card_view_layout_content_padding">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/email"
+            tools:ignore="MissingConstraints">
+
+        </TextView>
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+
+            <androidx.appcompat.widget.AppCompatEditText
+                android:id="@+id/et_email_input_text"
+                android:layout_width="250dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:inputType="textEmailAddress"
+                android:textSize="@dimen/et_text_size"
+                tools:ignore="MissingConstraints" />
+
+            <ImageView
+                android:id="@+id/btn_email_input_text_clear"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+
+                android:src="@drawable/ic_baseline_clear_24"
+                app:layout_constraintBottom_toBottomOf="parent"
+
+                android:layout_marginBottom="10dp"
+                app:layout_constraintEnd_toEndOf="@+id/et_email_input_text"
+                app:layout_constraintTop_toTopOf="parent">
+
+            </ImageView>
+
+            <Button
+                android:id="@+id/btn_sign_up_duplicate_verify"
+                android:layout_width="100dp"
+                android:layout_height="45dp"
+                android:foreground="?attr/selectableItemBackground"
+                android:paddingTop="@dimen/btn_paddingTopBottom"
+                android:paddingBottom="@dimen/btn_paddingTopBottom"
+                android:text="@string/duplicate_verify"
+                android:enabled="false"
+                android:backgroundTint="@color/teal_200"
+                android:textColor="@android:color/white"
+                android:textSize="12dp"
+                app:layout_constraintBottom_toBottomOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintHorizontal_bias="0.939"
+                app:layout_constraintStart_toEndOf="@+id/btn_email_input_text_clear"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintVertical_bias="0.0" />
+
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+
+            android:text="@string/nickname">
+
+        </TextView>
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/et_nickname_input_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/sign_up_input_text_margin_TopBottom"
+            android:hint="@string/nickname_input_text"
+            android:inputType="text"
+            android:textSize="@dimen/et_text_size" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/sign_up_input_text_margin_TopBottom"
+            android:text="@string/password">
+
+        </TextView>
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/et_password_input_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/sign_up_input_text_margin_TopBottom"
+            android:hint="@string/password_input_text"
+            android:inputType="textPassword"
+            android:textSize="@dimen/et_text_size" />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/sign_up_input_text_margin_TopBottom"
+            android:text="@string/birthday">
+
+        </TextView>
+
+
+        <androidx.appcompat.widget.AppCompatEditText
+            android:id="@+id/et_birthday_input_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/sign_up_input_text_margin_TopBottom"
+            android:hint="@string/birthday_input_text"
+            android:inputType="datetime"
+            android:textSize="@dimen/et_text_size" />
+
+    </LinearLayout>
+
+</LinearLayout>
