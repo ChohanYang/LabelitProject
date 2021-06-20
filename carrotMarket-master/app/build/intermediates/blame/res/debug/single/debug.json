@@ -1,0 +1,486 @@
+[
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_chat.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\fragment_chat.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_button_no_color.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_button_no_color.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_certification.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_location_certification.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_study.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_study.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_rabbit.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable-v24\\ic_rabbit.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_man.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_man.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_change_location.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_change_location.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_location.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_setting_location.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_detail_select.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_detail_select.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_apple.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_apple.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_button_another.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_button_another.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_default_textview.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\item_default_textview.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baby.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_baby.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_button_active.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_button_active.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_beauty.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_beauty.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_write_photo_item.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\item_write_photo_item.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_write_bottom_sheet.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_write_bottom_sheet.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_circle_progress.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_circle_progress.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_select_location.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_select_location.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_guitar.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_guitar.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_best.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_best.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_input_default.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_input_default.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_seek_bar.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\location_seek_bar.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_profile.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\color_decorate_bottom_navigation.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\color\\decorate_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notification.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_want_list.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_want_list.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_tune.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_tune.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_animal.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_animal.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_delete.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_delete.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sport.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_sport.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_shopping.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_shopping.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_my_carrot.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\fragment_my_carrot.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_buy.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_buy.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_button_inactive.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_button_inactive.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_person.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_person.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_share.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_share.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_invite_friend.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_invite_friend.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_up.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_arrow_up.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_category.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\fragment_category.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_write_used.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_write_used.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bottom_navigation.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\menu\\menu_bottom_navigation.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_save_text.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_save_text.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_rabbit.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_rabbit.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_furniture.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_furniture.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_category.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_category.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_rabbit.gif.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\rabbit.gif"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user_center.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_user_center.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_main.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_setting_main.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_setting.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_setting.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_show_item_detail.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\fragment_show_item_detail.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_sell_list.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_sell_list.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_sign.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_sign.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_location_setting.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_location_setting.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_back.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_back.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_seek_thumb.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\location_seek_thumb.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_write_community.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_write_community.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_woman.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_woman.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_book.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_book.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_2.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\location_2.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_1.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\location_1.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_chat.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_chat.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_digital.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_digital.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_party.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_party.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_write_community_category.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_write_community_category.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_store.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_store.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_car.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_car.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_setting_category.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_setting_category.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_home.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_imageview_corner_rounding.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_imageview_corner_rounding.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_write_used_category.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_write_used_category.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_hobby.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_hobby.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_food.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_food.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_woman_cloth.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_woman_cloth.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_select_location.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\item_select_location.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_animation_circle_progress.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\animation_circle_progress.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_popup_reflesh.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\popup_reflesh.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_want_unclick.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_want_unclick.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_0.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\location_0.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_profile_default.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_profile_default.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_property.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_property.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_dot_off.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\indicator_dot_off.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_want_click.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_want_click.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_write.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_write.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_collect_all.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_collect_all.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notice.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_notice.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_buy_list.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_buy_list.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add_photo.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_add_photo.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_unchecked.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_unchecked.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_arrow_down.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_arrow_down.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_category_setting.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\item_category_setting.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_decorate_button_reverse.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\decorate_button_reverse.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_menu.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_dot_on.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\indicator_dot_on.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_keyword.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_keyword.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_market.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_market.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_item_uploaded_item.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\item_uploaded_item.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_add.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_add.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_search.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_search.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_checked.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\ic_checked.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_viewpager_detail_image.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\viewpager_detail_image.xml"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_location_3.png.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\drawable\\location_3.png"
+    },
+    {
+        "merged": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_dialog_suggest_login.xml.flat",
+        "source": "C:\\R DA-ML\\fastcampusfolder_week2\\carrotMarket-master\\app\\src\\main\\res\\layout\\dialog_suggest_login.xml"
+    }
+]
