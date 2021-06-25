@@ -19,7 +19,7 @@ class SignUpPhoneVerifyActivity : AppCompatActivity() {
         val phoneNumber =  findViewById<EditText>(R.id.et__phone_number_input_text)
 
 
-                    btn_sign_up_phone_verify_back.setOnClickListener {
+        btn_sign_up_phone_verify_back.setOnClickListener {
                         finish()
                     }
 

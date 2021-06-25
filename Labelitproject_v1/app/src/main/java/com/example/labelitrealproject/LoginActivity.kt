@@ -10,6 +10,7 @@ package com.example.labelitrealproject
 //import kotlinx.android.synthetic.main.activity_add_photo.view.*
 //import com.facebook.CallbackManager
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.widget.Button
 import android.widget.EditText
@@ -72,12 +73,26 @@ class LoginActivity : AppCompatActivity() {
                 emailEditText.text.isNotEmpty() && passwordEditText.text.isNotEmpty() // text가 비어 있을 떄는 작동안하도록 설정
             loginButton.isEnabled = enable
             signUpButton.isEnabled = enable
+
+            if (loginButton.isEnabled) {
+
+                loginButton.setBackgroundColor(Color.parseColor("#9DE8F7"))
+            } else {
+                loginButton.setBackgroundColor(Color.parseColor("#B1B1B1"))
+            }
         }
 
         passwordEditText.addTextChangedListener {
             val enable = emailEditText.text.isNotEmpty() && passwordEditText.text.isNotEmpty()
             loginButton.isEnabled = enable
             signUpButton.isEnabled = enable
+
+            if (loginButton.isEnabled) {
+
+                loginButton.setBackgroundColor(Color.parseColor("#9DE8F7"))
+            } else {
+                loginButton.setBackgroundColor(Color.parseColor("#B1B1B1"))
+            }
         }
 
 
@@ -87,10 +102,9 @@ class LoginActivity : AppCompatActivity() {
 
             var intent = Intent(this, SignUpAgreeActivity::class.java)
             startActivity(intent)
-
-
         }
     }
+
 
     private fun forgotPassword() {
 
@@ -146,9 +160,6 @@ class LoginActivity : AppCompatActivity() {
         startActivity(intent)
         finish()
     }
-
-
-
 }
 
 

@@ -15,11 +15,12 @@
 
         <ImageView
             android:id="@+id/btn_sign_up_phone_verify_back"
-            android:layout_width="40dp"
-            android:layout_height="40dp"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
             android:layout_marginStart="@dimen/toolbar_btn_Margin_StartEnd"
             android:layout_marginTop="@dimen/toolbar_title_marginTop"
 
+            android:layout_gravity = "left"
             android:src="@drawable/ic_baseline_clear_24">
 
         </ImageView>
@@ -28,10 +29,8 @@
             android:id="@+id/sign_up_title"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimen/toolbar_title_marginStartEnd"
             android:layout_marginTop="@dimen/toolbar_title_marginTop"
-            android:layout_marginEnd="@dimen/toolbar_title_marginStartEnd"
-            android:gravity="center_horizontal"
+            android:layout_gravity = "center"
             android:text="@string/sign_up"
             android:textColor="@color/primary_text_color"
             android:textSize="@dimen/toolbar_title_text_size"
@@ -43,7 +42,7 @@
             android:layout_height="wrap_content"
             android:layout_marginEnd="@dimen/toolbar_btn_Margin_StartEnd"
             android:layout_marginTop="@dimen/toolbar_title_marginTop"
-            android:gravity="center"
+            android:layout_gravity = "right"
             android:text="@string/sign_up_next"
             android:textColor="@color/primary_text_color"
             android:textSize="@dimen/toolbar_title_text_size"

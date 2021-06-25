@@ -10,14 +10,26 @@
         android:layout_width="match_parent"
         android:layout_height="?attr/actionBarSize">
 
+        <ImageView
+            android:id="@+id/btn_sign_up_agree_back"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="@dimen/toolbar_btn_Margin_StartEnd"
+            android:layout_marginTop="@dimen/toolbar_title_marginTop"
+
+            android:layout_gravity = "left"
+            android:src="@drawable/ic_baseline_clear_24">
+
+        </ImageView>
+
+
+
         <TextView
             android:id="@+id/sign_up_title"
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:gravity="center"
-            android:layout_marginStart="@dimen/toolbar_title_marginStartEnd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
             android:layout_marginTop="@dimen/toolbar_title_marginTop"
-            android:layout_marginEnd="@dimen/toolbar_title_marginStartEnd"
             android:text="@string/sign_up"
             android:textColor="@color/primary_text_color"
             android:textSize="@dimen/toolbar_title_text_size"
@@ -55,6 +67,7 @@
 
         android:layout_marginLeft="@dimen/sign_up_Margin_Left"
         android:layout_height="wrap_content"
+
         android:text="@string/sign_up_agree_text2"/>
 
     <com.google.android.material.checkbox.MaterialCheckBox
@@ -63,6 +76,7 @@
         android:layout_marginTop="@dimen/sign_up_Margin_Top"
         android:layout_marginLeft="@dimen/sign_up_Margin_Left"
         android:layout_height="wrap_content"
+
         android:text="@string/sign_up_agree_text3" />
 
     <com.google.android.material.checkbox.MaterialCheckBox
@@ -70,6 +84,7 @@
         android:layout_width="wrap_content"
         android:layout_marginTop="@dimen/sign_up_Margin_Top"
         android:layout_marginLeft="@dimen/sign_up_Margin_Left"
+
         android:layout_height="wrap_content"
         android:text="@string/sign_up_agree_text4" />
 
@@ -84,14 +99,13 @@
     <Button
         android:id="@+id/btn_sign_up_next"
         android:layout_width="match_parent"
-        android:layout_height="@dimen/btn_height"
-        android:layout_gravity="center"
-        android:enabled="false"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:layout_marginTop="220dp"
         android:layout_marginStart="@dimen/btn_marginStartEnd"
-        android:layout_marginTop="@dimen/sign_up_agree_btn_marginTop"
         android:layout_marginEnd="@dimen/btn_marginStartEnd"
-        android:foreground="?attr/selectableItemBackground"
-        android:gravity="center"
+        android:background="@drawable/button_round_corner_unactivate"
+        android:enabled="false"
 
         android:paddingTop="@dimen/btn_paddingTopBottom"
         android:paddingBottom="@dimen/btn_paddingTopBottom"

@@ -1,10 +1,10 @@
 package com.example.labelitrealproject
 
-import android.content.DialogInterface
 import android.content.Intent
+import android.graphics.Color
 import android.os.Bundle
 import android.view.View
-import android.widget.*
+import android.widget.CheckBox
 import androidx.appcompat.app.AppCompatActivity
 import kotlinx.android.synthetic.main.activity_sign_up_agree.*
 
@@ -27,6 +27,12 @@ class SignUpAgreeActivity : AppCompatActivity() {
 
         val checkBox5 = findViewById<CheckBox>(R.id.sign_up_check5)
 
+
+        btn_sign_up_agree_back.setOnClickListener {
+                        finish()
+                    }
+
+
 //전체동의 클릭시
 //전체 true / 전체 false 로 변경
         checkBox.setOnClickListener(object : View.OnClickListener {
@@ -37,6 +43,8 @@ class SignUpAgreeActivity : AppCompatActivity() {
                     checkBox4.isChecked = true
                     checkBox5.isChecked = true
                     btn_sign_up_next.setEnabled(true)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#9DE8F7"))
+
                 } else {
                     checkBox2.isChecked = false
                     checkBox3.isChecked = false
@@ -44,6 +52,7 @@ class SignUpAgreeActivity : AppCompatActivity() {
                     checkBox5.isChecked = false
 
                     btn_sign_up_next.setEnabled(false)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#B1B1B1"))
                 }
             }
         })
@@ -55,10 +64,12 @@ class SignUpAgreeActivity : AppCompatActivity() {
                 if (checkBox.isChecked) {
                     checkBox.isChecked = false
                     btn_sign_up_next.setEnabled(false)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#B1B1B1"))
                     //각 체크박스 체크 여부 확인해서  전체동의 체크박스 변경
                 } else if (checkBox2.isChecked && checkBox3.isChecked && checkBox4.isChecked && checkBox5.isChecked) {
                     checkBox.isChecked = true
                     btn_sign_up_next.setEnabled(true)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#9DE8F7"))
                 }
             }
         })
@@ -69,9 +80,11 @@ class SignUpAgreeActivity : AppCompatActivity() {
                 if (checkBox.isChecked) {
                     checkBox.isChecked = false
                     btn_sign_up_next.setEnabled(false)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#B1B1B1"))
                 } else if (checkBox2.isChecked && checkBox3.isChecked && checkBox4.isChecked && checkBox5.isChecked) {
                     checkBox.isChecked = true
                     btn_sign_up_next.setEnabled(true)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#9DE8F7"))
                 }
             }
         })
@@ -82,9 +95,11 @@ class SignUpAgreeActivity : AppCompatActivity() {
                 if (checkBox.isChecked) {
                     checkBox.isChecked = false
                     btn_sign_up_next.setEnabled(false)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#B1B1B1"))
                 } else if (checkBox2.isChecked && checkBox3.isChecked && checkBox4.isChecked) {
                     checkBox.isChecked = true
                     btn_sign_up_next.setEnabled(true)
+                    btn_sign_up_next.setBackgroundColor(Color.parseColor("#9DE8F7"))
                 }
             }
         })
@@ -92,7 +107,7 @@ class SignUpAgreeActivity : AppCompatActivity() {
         checkBox5.setOnClickListener(object : View.OnClickListener {
             override fun onClick(v: View?) {
 
-                 if (checkBox2.isChecked && checkBox3.isChecked && checkBox4.isChecked && checkBox5.isChecked) {
+                 if (checkBox2.isChecked && checkBox3.isChecked && checkBox4.isChecked) {
                     checkBox.isChecked = true
                 }
             }

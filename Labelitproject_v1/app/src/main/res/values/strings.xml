@@ -114,7 +114,7 @@
     <string name="email">이메일</string>
     <string name="sign_in_text">레이블잇이 처음이시라면?,</string>
     <string name="sign_in_description_text">소셜 회원이신가요? 그럼</string>
-    <string name="sign_up_text"> 잠시만요. \n 회원가입 전, \n 약관동의가 필요해요!</string>
+    <string name="sign_up_text">&#160;잠시만요. \n 회원가입 전, \n 약관동의가 필요해요!</string>
 
     //회원가입
 
